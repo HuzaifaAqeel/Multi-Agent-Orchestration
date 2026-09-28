@@ -1,0 +1,2 @@
+## LangGraph Studio only. Keep aligned with ../requirements-service.txt.
+-r ../requirements-service.txt
